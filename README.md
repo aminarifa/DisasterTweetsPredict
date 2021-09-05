@@ -1,2 +1,2 @@
 # DisasterTweetsPredict
-This project aims at identifying tweets that describe disaster by making use of NLP techniques.
+This project aims at identifying tweets that describe disasters by making use of NLP techniques.
